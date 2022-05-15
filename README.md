@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Para conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCkjQ_0iLFh8Fa0FETLeT1IA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
