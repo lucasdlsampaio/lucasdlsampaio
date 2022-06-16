@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Lucas Sampaio 😁
+## Bem-vindo(a)!!! Perfil do Lucas Sampaio 🇧🇷🇵🇹
 
 <div>
   <a href="https://github.com/lucasdlsampaio">
@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Para conteúdo sobre programação me segue nas redes abaixo!
+  ### Para acompanhar minha evolução na programação siga-me nas redes abaixo!
  
 <div> 
    <a href="https://instagram.com/lucasdlsampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
