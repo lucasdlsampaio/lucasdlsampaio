@@ -16,7 +16,7 @@
  
  <br>
  
-  ### Para acompanhar minha evolução na programação acesse as redes abaixo!
+  ### Para acompanhar minha evolução na programação acesse as redes abaixo:
  
 <div> 
    <a href="https://instagram.com/lucasdlsampaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
