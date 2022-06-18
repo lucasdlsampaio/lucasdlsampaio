@@ -1,4 +1,4 @@
-## Bem-vindo(a)!!! Perfil do Lucas Sampaio 🇧🇷🇵🇹
+## Bem-vindo(a)!!! Sou o Lucas Sampaio 🇧🇷🇵🇹
 
 #### Com muita força, foco e café, chegaremos lá! ☕
 
